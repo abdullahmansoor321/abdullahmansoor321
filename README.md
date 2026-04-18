@@ -7,7 +7,7 @@
 </picture>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Full-Stack+Applications+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;From+Karachi+to+the+World+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Full-Stack+Applications+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;From+Karachi+to+The+World+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 <!-- Socail Badges -->
 <p>
@@ -89,31 +89,6 @@ certifications:
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
-
----
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abdullahmansoor321/HRMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=HRMS&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/abdullahmansoor321/Task-Tracker-Lite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=Task-Tracker-Lite&theme=react&hide_border=true" />
-</a>
-
-</div>
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏢 **[Enterprise HRMS](https://github.com/abdullahmansoor321/HRMS)** | Production-grade workforce management platform with attendance tracking, RBAC, org charts, and geo-location verification | `Next.js` `Supabase` `PostgreSQL` |
-| 🎬 **ActorDB** *(Private Repo)* | AI-powered video semantic search engine — search by dialogue, scene, or actor using WhisperX, CLIP & ChromaDB | `Python` `PyTorch` `Docker` `ChromaDB` |
-| 📰 **[ContentFlow](https://github.com/abdullahmansoor321/Content-Flow-CMS)** | Full-stack CMS for publishers with rich text editing, multi-provider auth (Firebase), and CDN media uploads | `Node.js` `Express` `Firebase` `Swagger` |
-| 💬 **[CipherChat](https://github.com/abdullahmansoor321/Cipher-Chat)** | Secure real-time messaging platform with Socket.io, WAF protection via Arcjet, and presence tracking | `MERN` `Socket.io` `Arcjet` |
-| 🔐 **[NestJS Boilerplate](https://github.com/abdullahmansoor321/nest-auth-boilerplate)** | Reusable backend template with JWT + refresh token rotation, RBAC, Prisma ORM, and full dev tooling | `NestJS` `Prisma` `Jest` `Swagger` |
-| 💰 **[Salary Prediction Engine](https://github.com/abdullahmansoor321/Glassdoor-job-salary-predictor)** | End-to-end ML pipeline transforming raw job data into salary predictions using Gradient Boosting | `Python` `Scikit-Learn` `Pandas` |
-| ✅ **[Task Tracker Lite](https://github.com/abdullahmansoor321/Task-Tracker-Lite)** | Personal productivity app with JWT auth, Zustand state management, and smart filtering | `MERN` `Zustand` `JWT` |
 
 ---
 
