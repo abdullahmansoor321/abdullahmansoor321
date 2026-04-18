@@ -94,17 +94,6 @@ certifications:
 
 ## 🏗️ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/abdullahmansoor321/HRMS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=HRMS&theme=react&hide_border=true" />
-</a>
-<a href="https://github.com/abdullahmansoor321/Task-Tracker-Lite">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=Task-Tracker-Lite&theme=react&hide_border=true" />
-</a>
-
-</div>
-
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏢 **[Enterprise HRMS](https://github.com/abdullahmansoor321/HRMS)** | Production-grade workforce management platform with attendance tracking, RBAC, org charts, and geo-location verification | `Next.js` `Supabase` `PostgreSQL` |
