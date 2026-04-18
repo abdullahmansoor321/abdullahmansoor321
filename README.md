@@ -1,10 +1,14 @@
 <div align="center">
 
 <!-- Animated Header -->
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Abdullah%20Mansoor&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8fafc,50:f1f5f9,100:f8fafc&height=220&section=header&text=Abdullah%20Mansoor&fontSize=42&fontColor=2563eb&animation=fadeIn&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=16&descColor=64748b&descAlignY=55" width="100%"/>
-</picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,100:064e3b&height=260&section=header&text=Abdullah%20Mansoor&fontSize=54&fontColor=d1fae5&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descColor=34d399&descAlignY=55&animation=fadeIn">
+
+<img 
+ src="https://capsule-render.vercel.app/api?type=waving&color=0:f0fdf4,100:dcfce7&height=260&section=header&text=Abdullah%20Mansoor&fontSize=54&fontColor=064e3b&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descColor=059669&descAlignY=55&animation=fadeIn" 
+ width="100%"/> </picture>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Scalable+Full-Stack+Applications+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;From+Karachi+to+the+World+%F0%9F%8C%8D)](https://git.io/typing-svg)
