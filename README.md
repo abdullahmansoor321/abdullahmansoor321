@@ -105,10 +105,10 @@ certifications:
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🏢 **[Enterprise HRMS](https://github.com/abdullahmansoor321/HRMS)** | Production-grade workforce management platform with attendance tracking, RBAC, org charts, and geo-location verification | `Next.js` `Supabase` `PostgreSQL` |
-| 🎬 **ActorDB** | AI-powered video semantic search engine — search by dialogue, scene, or actor using WhisperX, CLIP & ChromaDB | `Python` `PyTorch` `Docker` `ChromaDB` |
-| 📰 **ContentFlow** | Full-stack CMS for publishers with rich text editing, multi-provider auth (Firebase), and CDN media uploads | `Node.js` `Express` `Firebase` `Swagger` |
-| 💬 **CipherChat** | Secure real-time messaging platform with Socket.io, WAF protection via Arcjet, and presence tracking | `MERN` `Socket.io` `Arcjet` |
-| 🔐 **NestJS Boilerplate** | Reusable backend template with JWT + refresh token rotation, RBAC, Prisma ORM, and full dev tooling | `NestJS` `Prisma` `Jest` `Swagger` |
+| 🎬 **ActorDB** *(Private Repo)* | AI-powered video semantic search engine — search by dialogue, scene, or actor using WhisperX, CLIP & ChromaDB | `Python` `PyTorch` `Docker` `ChromaDB` |
+| 📰 **[ContentFlow](https://github.com/abdullahmansoor321/Content-Flow-CMS)** | Full-stack CMS for publishers with rich text editing, multi-provider auth (Firebase), and CDN media uploads | `Node.js` `Express` `Firebase` `Swagger` |
+| 💬 **[CipherChat](https://github.com/abdullahmansoor321/Cipher-Chat)** | Secure real-time messaging platform with Socket.io, WAF protection via Arcjet, and presence tracking | `MERN` `Socket.io` `Arcjet` |
+| 🔐 **[NestJS Boilerplate](https://github.com/abdullahmansoor321/nest-auth-boilerplate)** | Reusable backend template with JWT + refresh token rotation, RBAC, Prisma ORM, and full dev tooling | `NestJS` `Prisma` `Jest` `Swagger` |
 | 💰 **[Salary Prediction Engine](https://github.com/abdullahmansoor321/Glassdoor-job-salary-predictor)** | End-to-end ML pipeline transforming raw job data into salary predictions using Gradient Boosting | `Python` `Scikit-Learn` `Pandas` |
 | ✅ **[Task Tracker Lite](https://github.com/abdullahmansoor321/Task-Tracker-Lite)** | Personal productivity app with JWT auth, Zustand state management, and smart filtering | `MERN` `Zustand` `JWT` |
 
