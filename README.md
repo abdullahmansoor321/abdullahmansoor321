@@ -11,6 +11,7 @@
 
 <!-- Social Badges -->
 <p>
+<a href="https://portfolio-ten-beta-1ou9p5lu5i.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F5D4?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/abdullah-mansoor-52220526a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:abdullahmansoor221@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://github.com/abdullahmansoor321"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
