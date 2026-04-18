@@ -1,117 +1,150 @@
 <div align="center">
 
-<!-- HEADER -->
+<!-- HERO BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Abdullah%20Mansoor&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Full%20Stack%20Architect&descSize=18&descColor=60a5fa&descAlignY=55&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8fafc&height=220&section=header&text=Abdullah%20Mansoor&fontSize=50&fontColor=0f172a&fontAlignY=35&desc=Computer%20Systems%20Engineer%20%7C%20Full%20Stack%20Architect&descSize=18&descColor=2563eb&descAlignY=55&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=ABDULLAH%20MANSOOR&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full--Stack%20Architect%20%7C%20Computer%20Systems%20Engineer&descSize=20&descColor=3b82f6&descAlignY=55&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=280&section=header&text=ABDULLAH%20MANSOOR&fontSize=70&fontColor=0f172a&fontAlignY=35&desc=Full--Stack%20Architect%20%7C%20Computer%20Systems%20Engineer&descSize=20&descColor=2563eb&descAlignY=55&animation=fadeIn" width="100%"/>
 </picture>
 
 <br/>
 
-<!-- DYNAMIC TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=50&lines=Building+Modern+Web+Ecosystems+%F0%9F%9A%80;Architecting+AI-Powered+Systems+%F0%9F%A4%96;Engineering+Scalable+Solutions+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+<!-- STATUS DASHBOARD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00f5d4?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/DEPLOYMENT-PRODUCTION_READY-3b82f6?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/UPTIME-100%25-8b5cf6?style=for-the-badge&labelColor=0d1117" />
+</p>
 
 <br/>
 
-<!-- SOCIALS & PORTFOLIO -->
-<p>
-  <a href="https://portfolio-ten-beta-1ou9p5lu5i.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-mansoor-52220526a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:abdullahmansoor221@gmail.com"><img src="https://img.shields.io/badge/Connect_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<!-- NAVIGATION BAR -->
+<p align="center">
+  <a href="https://portfolio-ten-beta-1ou9p5lu5i.vercel.app/"><strong>PORTFOLIO</strong></a> &nbsp; • &nbsp;
+  <a href="https://github.com/abdullahmansoor321?tab=repositories"><strong>REPOSITORIES</strong></a> &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/abdullah-mansoor-52220526a"><strong>LINKEDIN</strong></a> &nbsp; • &nbsp;
+  <a href="mailto:abdullahmansoor221@gmail.com"><strong>CONTACT</strong></a>
 </p>
 
 </div>
 
 ---
 
-### 🧬 About Me
-
-```yaml
-identity:
-  name: Abdullah Mansoor
-  role: Computer Systems Engineer
-  location: Karachi, PK 🇵🇰
-
-focus:
-  - 🌐 Architecting high-performance Full-Stack applications
-  - 🧠 Integrating AI/ML pipelines into production systems
-  - 🛠️ Engineering modular, scalable codebases
-
-philosophy:
-  - "Simplicity is the ultimate sophistication."
-  - "Build for the user, engineer for the machine."
-```
-
----
-
-### ⚡ Technical Arsenal
+<br/>
 
 <div align="center">
 
-| LAYER | STACK MODULES |
-| :--- | :--- |
-| **DEVELOPMENT** | `JavaScript` `TypeScript` `Python` `Node.js` |
-| **FRONT-END** | `React` `Next.js` `TailwindCSS` `Zustand` `Streamlit` |
-| **BACK-END** | `Express` `NestJS` `Prisma` `Socket.io` |
-| **DATABASE** | `PostgreSQL` `MongoDB` `Supabase` `Firebase` |
-| **INTELLIGENCE** | `PyTorch` `Scikit-Learn` `OpenCV` |
-| **DEPLOYMENT** | `Docker` `Git` `Vercel` `Render` |
+<!-- TYPING CONSOLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=60&lines=%3E_INITIALIZING_ENGINEERING_SUITE;%3E_OPTIMIZING_FULL_STACK_FLOWS;%3E_ARCHITECTING_INTELLIGENT_SYSTEMS" />
+
+</div>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,nodejs,nestjs,express,mongodb,postgres,prisma,docker,supabase,vercel,git,github" />
+<div align="center">
+
+<!-- BENTO GRID PROJECTS -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/abdullahmansoor321/HRMS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=HRMS&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=00f5d4&text_color=94a3b8" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/abdullahmansoor321/Cipher-Chat">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=Cipher-Chat&theme=transparent&hide_border=true&title_color=8b5cf6&icon_color=00f5d4&text_color=94a3b8" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/abdullahmansoor321/Task-Tracker-Lite">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahmansoor321&repo=Task-Tracker-Lite&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=00f5d4&text_color=94a3b8" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-### 🏗️ Featured Operations
+<br/>
 
 <div align="center">
 
-| PROJECT | DESCRIPTION | SOURCE |
-| :--- | :--- | :--- |
-| 🏢 **Enterprise HRMS** | Production-grade workforce management for **ARY Group**. Geo-attendance & RBAC. | [VIEW_CODE](https://github.com/abdullahmansoor321/HRMS) |
-| 🎬 **ActorDB** | AI-powered video semantic search using WhisperX & CLIP. *Private Repository.* | `RESTRICTED` |
-| 💬 **CipherChat** | Hardened real-time messaging with **WAF** protection via Arcjet. | [VIEW_CODE](https://github.com/abdullahmansoor321/Cipher-Chat) |
-| 📰 **ContentFlow** | High-performance CMS with rich editor & Firebase auth integration. | [VIEW_CODE](https://github.com/abdullahmansoor321/Content-Flow-CMS) |
-| 🔐 **NestJS Boilerplate** | Hardened API architecture with JWT rotation & device-level revocation. | [VIEW_CODE](https://github.com/abdullahmansoor321/nest-auth-boilerplate) |
-| 💰 **Salary Predictor** | End-to-end ML pipeline with 5k+ data points for market compensation. | [VIEW_CODE](https://github.com/abdullahmansoor321/Glassdoor-job-salary-predictor) |
+<!-- TECH STACK CLOUD -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,tailwind,nodejs,nestjs,express,mongodb,postgres,prisma,supabase,pytorch,docker,git,vercel,github&perline=9" />
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-### 📊 Telemetry & Metrics
+<br/>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahmansoor321&show_icons=true&theme=transparent&title_color=60a5fa&icon_color=60a5fa&text_color=94a3b8&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahmansoor321&show_icons=true&theme=default&hide_border=true&count_private=true" height="180" />
-</picture>
+<!-- TELEMETRY DASHBOARD -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abdullahmansoor321&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=00f5d4&text_color=94a3b8&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=abdullahmansoor321&show_icons=true&theme=default&hide_border=true&count_private=true" height="200" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmansoor321&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=94a3b8&langs_count=10">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmansoor321&layout=compact&theme=default&hide_border=true&langs_count=10" height="200" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<!-- STREAK & SNAKE -->
+<table width="100%">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmansoor321&theme=transparent&hide_border=true&background=0d1117&stroke=1e293b&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmansoor321&theme=default&hide_border=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/abdullahmansoor321/abdullahmansoor321/output/github-contribution-grid-snake.svg" width="100%" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<!-- FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmansoor321&layout=compact&theme=transparent&title_color=60a5fa&text_color=94a3b8&hide_border=true&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmansoor321&layout=compact&theme=default&hide_border=true&langs_count=8" height="180" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer&reversal=true">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563eb&height=120&section=footer&reversal=true" width="100%"/>
 </picture>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmansoor321&theme=transparent&title_color=60a5fa&sideLabels=94a3b8&dates=94a3b8&currStreakLabel=3b82f6&currStreakNum=ffffff&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahmansoor321&theme=default&hide_border=true" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer&reversal=true">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f8fafc&height=100&section=footer&reversal=true" width="100%"/>
-</picture>
+<p align="center">
+  <strong>AUTHENTICATED_SESSION // ABDULLAH_MANSOOR</strong><br/>
+  Designed for Performance • Built for the Web
+</p>
 
 </div>
